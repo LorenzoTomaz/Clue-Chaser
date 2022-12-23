@@ -36,4 +36,4 @@ python game.py --question "your question"
 # NOTE $$
 
 If possible, please use your own openai personal api key to query the models. If you never used gpt3 or you just wanna have a quick look, use with caution the `API_KEY` informed in this document.
-CRACK THE CASE, NOT MY CREDIT CARD :joy: <3
+CRACK THE CASE, NOT MY CREDIT CARD :joy: :heart:
