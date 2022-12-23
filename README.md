@@ -6,7 +6,7 @@ Join us on an epic journey of detective work. Enter the world of Clue Chaser, a 
 
 # GAME POC
 
-At the moment the game is cli based and you can play with it with by running:
+At the moment, the game is cli based and you can play with it by running:
 
 ```shell
 python game.py --question "your question"
