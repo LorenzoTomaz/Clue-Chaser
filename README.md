@@ -1,7 +1,7 @@
 # CLUE CHASER
 
-This a POC of crime scene investigation game created with python and gpt3.
-At the moment the game is cli based and you can play it with by running:
+This a POC of crime scene text adventure investigation game created with python and gpt3.
+At the moment the game is cli based and you can play with it with by running:
 
 ```shell
 python game.py --question "your question"
