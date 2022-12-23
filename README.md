@@ -1,5 +1,11 @@
 # CLUE CHASER
 
+### Are you ready to take on the challenge of Clue Chaser?
+
+Join us on an epic journey of detective work. Enter the world of Clue Chaser, a gpt3-powered text adventure game with amazing detective stories to solve. As a senior student at the Sherlock detective university, you must solve a crime scene mystery to finish your studies. With the custom AI model made with gpt3, you will receive crime scene details and then it's up to you to use your detective skills to find the answers. But beware, the AI guide can only answer with "yes", "no" or "indifferent". It's time to put your detective skills to the test. Are you ready to take on the challenge of Clue Chaser?
+
+# GAME POC
+
 This a POC of crime scene text adventure investigation game created with python and gpt3.
 At the moment the game is cli based and you can play with it with by running:
 
