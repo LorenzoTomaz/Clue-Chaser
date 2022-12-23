@@ -6,7 +6,6 @@ Join us on an epic journey of detective work. Enter the world of Clue Chaser, a 
 
 # GAME POC
 
-This a POC of crime scene text adventure investigation game created with python and gpt3.
 At the moment the game is cli based and you can play with it with by running:
 
 ```shell
